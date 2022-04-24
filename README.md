@@ -29,7 +29,7 @@ The repository is organized as the following:
   <img src="images/Slide3.JPG" width="500"/>
 </p>
 
-3. In order to retrive more insights from the data, [clustering and anomaly detection](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_ClusterAnomaly.ipynb) algorithms such as hierarchical clustering and DBSCAN as well as Isolation Forest, One Class SVM and LOF, were tested. Unfortunately, non of them were useful, and further [manually reserch](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_EDA.ipynb) was required. Two detected phenomena of TYPE_EDUCATIOM feature and DAYS_EMPLOYED feature are shown below. The final processed dataset which the classification models were trained and evaluated by can be found in /csv directiory.
+3. In order to retrieve more insights from the data, [clustering and anomaly detection](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_ClusterAnomaly.ipynb) algorithms such as hierarchical clustering and DBSCAN as well as Isolation Forest, One Class SVM and LOF, were tested. Unfortunately, non of them were useful, and further [manually reserch](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_EDA.ipynb) was required. Two detected phenomena of TYPE_EDUCATIOM feature and DAYS_EMPLOYED feature are shown below. The final processed dataset which the classification models were trained and evaluated by can be found in /csv directiory.
 
 <p align="center">
   <img src="images/Slide4.JPG" width="500"/>
