@@ -23,7 +23,7 @@ The repository is organized as the following:
   <img src="images/Slide2.JPG" width="500"/>
 </p>
 
-2. [Aggregation](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_Agg.ipynb) as well as feature engineering and feature selection were executed on 5 out of the 7 sources (output files' names as mentioned above), and later [merging](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_Merge.ipynb) together (output file's name: df_total.csv).
+2. [Aggregation](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_Agg.ipynb) as well as feature engineering and feature selection were executed on 5 out of the 7 sources (output files' names as mentioned above), and later [merged](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_Merge.ipynb) together (output file's name: df_total.csv).
 
 <p align="center">
   <img src="images/Slide3.JPG" width="500"/>
