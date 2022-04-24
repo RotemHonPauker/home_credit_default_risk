@@ -2,7 +2,7 @@
   <img src="images/credit_title_2.jpeg" width="300"/>
 </p>
 
-The repository organized as the following:
+The repository is organized as the following:
 
 1. [Kaggle competition's dataset](https://www.kaggle.com/competitions/home-credit-default-risk/data) includes 7 different sources of data: 
 
