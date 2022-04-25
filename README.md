@@ -29,7 +29,7 @@ The repository is organized as the following:
   <img src="images/Slide3.JPG" width="500"/>
 </p>
 
-3. In order to retrieve more insights from the data, [clustering and anomaly detection](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_ClusterAnomaly.ipynb) algorithms such as hierarchical clustering and DBSCAN as well as Isolation Forest, One Class SVM and LOF, were tested. Unfortunately, non of them were useful, and further [manually reserch](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_EDA.ipynb) was required. Two detected phenomena of TYPE_EDUCATIOM feature and DAYS_EMPLOYED feature are shown below. The final processed dataset which the classification models were trained and evaluated by can be found in /csv directiory.
+3. In order to retrieve more insights from the data, [clustering and anomaly detection](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_ClusterAnomaly.ipynb) algorithms such as hierarchical clustering and DBSCAN as well as Isolation Forest, One Class SVM and LOF, were tested. Unfortunately, none of them were useful, and further [manually research](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_EDA.ipynb) was required. Two detected phenomena of TYPE_EDUCATIOM feature and DAYS_EMPLOYED feature are shown below. The final processed dataset which the classification models were trained and evaluated by can be found in /csv directiory.
 
 <p align="center">
   <img src="images/Slide4.JPG" width="500"/>
@@ -39,7 +39,7 @@ The repository is organized as the following:
   <img src="images/Slide5.JPG" width="500"/>
 </p>
 
-4. Four classification models were compared: Logistic Regression, Random Forest, XGBoost, LightGBM. [The results](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_Class.ipynb) are shown below. The models' performences were examine taking in account the imbalacme and overlapping targets issues which were observed earlier.
+4. Four classification models were compared: Logistic Regression, Random Forest, XGBoost, LightGBM. [The results](https://github.com/RotemHonPauker/home_credit_default_risk/blob/master/credit_Class.ipynb) are shown below. The models' performences were examine taking in account the imbalance and overlapping targets issues which were observed earlier.
 
 <p align="center">
   <img src="images/Slide6.JPG" width="500"/>
